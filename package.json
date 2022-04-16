@@ -2,7 +2,7 @@
   "name": "react-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ssescomxmge.github.io/servicio-social-app/",
+  "homepage": "https://ssescomxmge.github.io/example",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
